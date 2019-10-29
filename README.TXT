@@ -18,7 +18,8 @@ V6.1 26/May/2018
 
 
 HOW TO START THIS PROJECT:
-Right click the game.class
+Right click the Game class, 
+choose Game() to create an object, then right click <void startGame()>
 
 
 AUTHORS:
