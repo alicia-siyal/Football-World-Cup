@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Menu()
+comment1.params=
+comment1.target=void\ displayMenu()
+comment1.text=\r\n\ display\ the\ menu\r\n
+comment2.params=
+comment2.target=java.lang.String\ chooseMenu()
+comment2.text=\r\n\ let\ user\ to\ choose\ the\ menu\r\n
+comment3.params=
+comment3.target=java.lang.String\ checkInput()
+comment3.text=\r\n\ check\ the\ validation\ of\ input\r\n
+comment4.params=
+comment4.target=void\ startGame()
+numComments=5

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RandomGoalGenerator()
+comment0.text=\r\n\ default\ constructor\r\n
+comment1.params=randomGoal
+comment1.target=RandomGoalGenerator(int)
+comment1.text=\r\n\ non-default\ constructor\r\n
+comment2.params=minNumber\ maxNumber
+comment2.target=int\ generateRandomGoal(int,\ int)
+comment2.text=\r\n\ Retrieved\ from\ week\ 5\ exercise\r\n\ Generate\ and\ return\ a\ random\ number\ between\ minimun\ number\ and\ the\r\n\ maximum\ number,\ inclusive,\ entered\ as\ a\ parameter\r\n
+comment3.params=
+comment3.target=int\ getRandomGoal()
+comment3.text=\r\n\ mutator\ for\ randomNumber\r\n
+comment4.params=randomGoal
+comment4.target=void\ setRandomGoal(int)
+comment4.text=\r\n\ accessor\ for\ randomNumber\r\n
+numComments=5

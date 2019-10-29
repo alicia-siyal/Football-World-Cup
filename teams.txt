@@ -1,0 +1,4 @@
+Australia,2
+Ghana,4
+China,3
+Spain,1
